@@ -50,7 +50,29 @@ Business Information Systems Student | Cairo, Egypt
 
 ## 🚀 Featured Projects
 
-*I'm currently organizing and uploading my projects. Stay tuned!*
+
+## 🚀 Featured Projects
+
+### 🌿 Smart Fresh Supply
+Java desktop application with database integration.
+[View Project](https://github.com/noreen-khalil/Smart-fresh-supply)
+
+### 📱 Flutter Learning - BLoC
+A Flutter learning project exploring the BLoC/Cubit state management pattern.
+[View Project](https://github.com/noreen-khalil/flutter_learning_bloc)
+
+### 🌸 Flower Website
+A web development project.
+[View Project](https://github.com/noreen-khalil/flowerWebsite)
+
+### ✅ Todo App
+A Flutter application project.
+[View Project](https://github.com/noreen-khalil/todo_app)
+
+### 💄 Beauty App
+A Flutter application project.
+[View Project](https://github.com/noreen-khalil/beauty_app)
+
 
 ---
 
